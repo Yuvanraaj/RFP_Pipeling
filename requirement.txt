@@ -1,0 +1,8 @@
+pdfplumber
+sentence-transformers
+torch
+qdrant-client
+python-dotenv
+python-docx
+boto3
+together
