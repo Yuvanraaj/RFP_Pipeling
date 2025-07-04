@@ -1,8 +1,13 @@
 pdfplumber
+PyMuPDF==1.23.21
+pytesseract
+Pillow
+langchain
+langchain-community
 sentence-transformers
 torch
-qdrant-client
-python-dotenv
-python-docx
-boto3
 together
+qdrant-client
+python-docx
+python-dotenv
+azure-storage-blob
