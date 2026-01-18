@@ -158,7 +158,7 @@ pip install -r requirements.txt
 
 ## 🧠 Credits
 
-Built with 💡 by Yuvanraaj & Varuna  
+Built with 💡 by Yuvanraaj
 Inspired by real-world document automation and RFP processing use-cases.
 
 ---
